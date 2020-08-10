@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Avatar",
+    "rank": 1,
+    "year": 2009,
+    "rating": 83,
+    "gross": "$2.7B"
+  },
+  {
+    "title": "Titanic",
+    "rank": 2,
+    "year": 1997,
+    "rating": 88,
+    "gross": "$2.1B"
+  },
+  {
+    "title": "The Avengers",
+    "rank": 3,
+    "year": 2012,
+    "rating": 92,
+    "gross": "$1.5B"
+  },
+  {
+    "title": "Harry Potter and the Deathly Hallows—Part 2",
+    "rank": 4,
+    "year": 2011,
+    "rating": 96,
+    "gross": "$1.3B"
+  },
+  {
+    "title": "Frozen",
+    "rank": 5,
+    "year": 2013,
+    "rating": 89,
+    "gross": "$1.2B"
+  },
+  {
+    "title": "Iron Man 3",
+    "rank": 6,
+    "year": 2013,
+    "rating": 78,
+    "gross": "$1.2B"
+  },
+  {
+    "title": "Transformers: Dark of the Moon",
+    "rank": 7,
+    "year": 2011,
+    "rating": 36,
+    "gross": "$1.1B"
+  },
+  {
+    "title": "The Lord of the Rings: The Return of the King",
+    "rank": 8,
+    "year": 2003,
+    "rating": 95,
+    "gross": "$1.1B"
+  },
+  {
+    "title": "Skyfall",
+    "rank": 9,
+    "year": 2012,
+    "rating": 92,
+    "gross": "$1.1B"
+  },
+  {
+    "title": "Transformers: Age of Extinction",
+    "rank": 10,
+    "year": 2014,
+    "rating": 18,
+    "gross": "$1.0B"
+  }
+]
